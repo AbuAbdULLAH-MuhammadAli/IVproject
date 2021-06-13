@@ -1,0 +1,2 @@
+we can not upload a file more than 25 MB on github. following link is our source to download the dataset.
+https://opendata.com.pk/dataset/property-data-for-pakistan/resource/8c882a14-ee3f-4534-a15f-5fec2319d5e5
